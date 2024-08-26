@@ -6,3 +6,5 @@ Mayo
 Junio
 Julio
 Agosto
+Setiembre
+Octubre
